@@ -10,7 +10,7 @@ This repository contains my programming projects and learning activities.
 - Assisted in preparing README content.
 
 ## Project Owner
-Chirutha18
+DOKKA SRINIVASULU
 
 ## Projects
 - Banking Transaction System
